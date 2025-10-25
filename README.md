@@ -81,8 +81,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
   <!-- Top Languages -->
   <img
-    src="<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=7200&v=3" height="170" alt="Top Languages for Kestx"/>
-"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=7200&v=3"
     height="170"
     alt="Top Languages for Kestx"
   />
