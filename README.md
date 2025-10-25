@@ -31,27 +31,33 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ### 🧠 Tech Stack
 
-#### 🎨 Graphic Design
-![GIMP](https://img.shields.io/badge/GIMP-FF4C4C?style=for-the-badge&logo=gimp&logoColor=white)
+#### 🎨 <span style="color:#FF4C4C;">**Graphic Design**</span>  
+🔥 ![GIMP](https://img.shields.io/badge/GIMP-FF4C4C?style=for-the-badge&logo=gimp&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-FF4C4C?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF4C4C?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-#### 🎬 Video Editing
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00C8FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+---
+
+#### 🎬 <span style="color:#00C8FF;">**Video & 3D Editing**</span>  
+🎥 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00C8FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-00C8FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-00C8FF?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-00C8FF?style=for-the-badge&logo=blender&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema%204D-00C8FF?style=for-the-badge&logo=cinema4d&logoColor=white)
 
-#### 💻 Development Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7F00FF?style=for-the-badge&logo=intellijidea&logoColor=white)
+---
+
+#### 💻 <span style="color:#7F00FF;">**Development Tools**</span>  
+⚙️ ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7F00FF?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-7F00FF?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-7F00FF?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-7F00FF?style=for-the-badge&logo=rider&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-7F00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-#### 🧩 Programming & Scripting Languages
-![Java](https://img.shields.io/badge/Java-E100FF?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+
+#### 🧩 <span style="color:#E100FF;">**Programming & Scripting Languages**</span>  
+💡 ![Java](https://img.shields.io/badge/Java-E100FF?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E100FF?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-E100FF?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-E100FF?style=for-the-badge&logo=npm&logoColor=white)
@@ -60,6 +66,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 ![HTML5](https://img.shields.io/badge/HTML5-E100FF?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-E100FF?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-E100FF?style=for-the-badge&logo=php&logoColor=white)
+
 
 
 
