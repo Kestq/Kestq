@@ -1,7 +1,9 @@
 <!-- Profile Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,100:E100FF&text=K%20E%20S%20T&fontColor=ffffff&fontAlignY=40&fontSize=60&fontAlign=50)
 <!-- Animated Intro Text -->
-![Neon Code Wave](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=7F00FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+page!;Minecraft+Developer;Game+Designer;Graphic+Designer;Web+Developer;Video+Editor)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=7F00FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+page!;Minecraft+Developer;Game+Designer;Graphic+Designer;Web+Developer;Video+Editor" alt="Typing Animation">
+</p>
 
 
 ---
@@ -39,21 +41,25 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ### 📊 GitHub Stats
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Kestx&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10" height="170"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Kestx&theme=radical&hide_border=true&border_radius=10" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10" height="170"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kestx&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10" height="170"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Kestx&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=E100FF&currStreakLabel=ffffff&border_radius=10" height="170"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10" height="170"/>
 
 </div>
+
 
 ---
 
 ### 🪄 Fun Facts
-- ☕ Fueled by caffeine and late-night creativity  
-- ⚒️ I love building plugins, systems, and custom economies  
-- 🌐 Always experimenting with new tech and server ideas  
+- ☕ Almost always drinking a coffee lol.
+- ⚒️ I love working on things i probably wont finish. (adhd) 
+- 🌐 Always learning by throwing myself 100 ideas to explore.  
 
 ---
 
