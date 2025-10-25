@@ -1,4 +1,4 @@
-<!-- Profile Banner -->
+vv<!-- Profile Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,100:E100FF&text=K%20E%20S%20T&fontColor=ffffff&fontAlignY=40&fontSize=60&fontAlign=50)
 <!-- Animated Intro Text -->
 <p align="center">
@@ -80,11 +80,10 @@ From creating advanced plugin systems to full-scale universe games — I love bl
   />
 
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=7200&v=3"
-    height="170"
-    alt="Top Languages for Kestx"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kestx&langs_count=8&layout=donut-vertical&bg_color=0D1117&title_color=E100FF&text_color=ffffff&icon_color=7F00FF&hide_border=true&v=2" height="220" alt="Languages Used by Kestx">
+</p>
+
 
 </div>
 
