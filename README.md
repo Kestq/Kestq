@@ -32,34 +32,35 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 ### 🧠 Tech Stack
 
 #### 🎨 Graphic Design
-![GIMP](https://img.shields.io/badge/GIMP-0D1117?style=for-the-badge&logo=gimp&logoColor=F0DC82)
-![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![GIMP](https://img.shields.io/badge/GIMP-0D1117?style=for-the-badge&logo=gimp&logoColor=FF4C4C)
+![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=FF4C4C)
+![Illustrator](https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF4C4C)
 
 #### 🎬 Video Editing
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-0D1117?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
-![After Effects](https://img.shields.io/badge/After%20Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-0D1117?style=for-the-badge&logo=davinciresolve&logoColor=29A9E0)
-![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Cinema 4D](https://img.shields.io/badge/Cinema%204D-0D1117?style=for-the-badge&logo=cinema4d&logoColor=7F00FF)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-0D1117?style=for-the-badge&logo=adobepremierepro&logoColor=00C8FF)
+![After Effects](https://img.shields.io/badge/After%20Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&logoColor=00C8FF)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-0D1117?style=for-the-badge&logo=davinciresolve&logoColor=00C8FF)
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=00C8FF)
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-0D1117?style=for-the-badge&logo=cinema4d&logoColor=00C8FF)
 
 #### 💻 Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=7F00FF)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=E100FF)
-![WebStorm](https://img.shields.io/badge/WebStorm-0D1117?style=for-the-badge&logo=webstorm&logoColor=00C8FF)
-![Rider](https://img.shields.io/badge/Rider-0D1117?style=for-the-badge&logo=rider&logoColor=FF4C4C)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=7F00FF)
+![WebStorm](https://img.shields.io/badge/WebStorm-0D1117?style=for-the-badge&logo=webstorm&logoColor=7F00FF)
+![Rider](https://img.shields.io/badge/Rider-0D1117?style=for-the-badge&logo=rider&logoColor=7F00FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=7F00FF)
 
 #### 🧩 Programming & Scripting Languages
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E100FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E100FF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=E100FF)
+![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=E100FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E100FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E100FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E100FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=E100FF)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=E100FF)
+
 
 
 ---
