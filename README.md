@@ -66,15 +66,28 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kestx&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kestx&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=7200&v=2"
+    height="170"
+    alt="GitHub Stats for Kestx"
+  />
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Kestx&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=E100FF&currStreakLabel=ffffff&border_radius=10" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Kestx&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=E100FF&currStreakLabel=ffffff&border_radius=10"
+    height="170"
+    alt="GitHub Streak for Kestx"
+  />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=7200&v=2"
+    height="170"
+    alt="Top Languages for Kestx"
+  />
 
 </div>
+
 
 
 ---
