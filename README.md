@@ -30,6 +30,8 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 ---
 
 ### 🧠 Tech Stack
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-7F00FF?style=for-the-badge&logo=cinema4d&logoColor=E100FF)
+
 
 #### 🎨 Graphic Design
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
