@@ -5,10 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=7F00FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+page!;Minecraft+Developer;Game+Designer;Graphic+Designer;Web+Developer;Video+Editor" alt="Typing Animation">
 </p>
 
-
 ---
 
-### 👋 Hey, I'm **Kestx**
+### 👋 Hey, I'm **Kestq**
 I’m a **developer from Toronto, Canada 🇨🇦**, currently working on building next-gen gaming and Minecraft experiences.  
 From creating advanced plugin systems to full-scale universe games — I love blending creativity and code to make something special.
 
@@ -68,33 +67,30 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kestx&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=7200&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=3600&v=2"
     height="170"
-    alt="GitHub Stats for Kestx"
+    alt="GitHub Stats for Kestq"
   />
 
   <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=Kestx&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=E100FF&currStreakLabel=ffffff&border_radius=10"
+    src="https://streak-stats.demolab.com?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=E100FF&currStreakLabel=ffffff&border_radius=10"
     height="170"
-    alt="GitHub Streak for Kestx"
+    alt="GitHub Streak for Kestq"
   />
 
   <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kestx&langs_count=8&layout=donut-vertical&bg_color=0D1117&title_color=E100FF&text_color=ffffff&icon_color=7F00FF&hide_border=true&v=2" height="220" alt="Languages Used by Kestx">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kestq&langs_count=8&layout=donut-vertical&bg_color=0D1117&title_color=E100FF&text_color=ffffff&icon_color=7F00FF&hide_border=true&v=2" height="220" alt="Languages Used by Kestq">
 </p>
 
-
 </div>
-
-
 
 ---
 
 ### 🪄 Fun Facts
-- ☕ Almost always drinking a coffee lol.
-- ⚒️ I love working on things i probably wont finish. (adhd) 
+- ☕ Almost always drinking a coffee lol.  
+- ⚒️ I love working on things I probably won’t finish. (ADHD)  
 - 🌐 Always learning by throwing myself 100 ideas to explore.  
 
 ---
