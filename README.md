@@ -62,29 +62,39 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ GitHub Overview
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=ffffff&border_radius=10&cache_seconds=3600&v=2"
-    height="170"
-    alt="GitHub Stats for Kestq"
-  />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=FFFFFF&border_radius=10" height="180" />
 
   <!-- Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=E100FF&currStreakLabel=ffffff&border_radius=10"
-    height="170"
-    alt="GitHub Streak for Kestq"
-  />
+  <img src="https://streak-stats.demolab.com?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=E100FF&fire=7F00FF&currStreakLabel=FFFFFF" height="180" />
+</div>
 
+---
+
+### 🎨 Language & Activity Overview
+<div align="center">
   <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kestq&layout=donut&langs_count=8&bg_color=0D1117&title_color=E100FF&text_color=FFFFFF&hide_border=true" height="220" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF" height="300" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kestq&langs_count=8&layout=donut-vertical&bg_color=0D1117&title_color=E100FF&text_color=ffffff&icon_color=7F00FF&hide_border=true&v=2" height="220" alt="Languages Used by Kestq">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kestq&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-</div>
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Kestq/Kestq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
