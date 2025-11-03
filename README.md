@@ -34,6 +34,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 ![GIMP](https://img.shields.io/badge/GIMP-FF4C4C?style=for-the-badge&logo=gimp&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-FF4C4C?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF4C4C?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF4C4C?style=for-the-badge&logo=figma&logoColor=white)
 
 #### 🎬 Video Editing
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00C8FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
