@@ -79,7 +79,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight" height="180" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/wakatime?username=Kestq)" height="180" />
 </div>
 
 </p>
