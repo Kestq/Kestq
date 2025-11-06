@@ -31,10 +31,10 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 ### 🧠 Tech Stack
 
 #### 🎨 Graphic Design
-![GIMP](https://img.shields.io/badge/GIMP-7F00FF?style=for-the-badge&logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-7F00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-7F00FF?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-7F00FF?style=for-the-badge&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-FF4C4C?style=for-the-badge&logo=gimp&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-FF4C4C?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF4C4C?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF4C4C?style=for-the-badge&logo=figma&logoColor=white)
 
 #### 🎬 Video Editing
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00C8FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
@@ -76,9 +76,17 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ### 🎨 Language & Activity Overview
 <div align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kestq&theme=tokyonight" height="180" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/wakatime?username=Kestq)" height="180" />
+</div>
+
+</p>
+
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF" height="300" />
 </div>
 
 ---
@@ -86,6 +94,13 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kestq&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Kestq/Kestq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
