@@ -121,4 +121,4 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:7F00FF,100:E100FF)
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:c51e1e,100:ff6e6e)
