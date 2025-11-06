@@ -86,7 +86,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=ad0c0c&point=ff6e6e" height="300" />
 </div>
 
 ---
