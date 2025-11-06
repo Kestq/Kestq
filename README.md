@@ -1,8 +1,8 @@
 <!-- Profile Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,100:E100FF&text=K%20E%20S%20T&fontColor=ffffff&fontAlignY=40&fontSize=60&fontAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:c51e1e,100:ff6e6e&text=K%20E%20S%20T&fontColor=ffffff&fontAlignY=40&fontSize=60&fontAlign=50)
 <!-- Animated Intro Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=7F00FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+page!;Minecraft+Developer;Game+Designer;Graphic+Designer;Web+Developer;Video+Editor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=c51e1e&center=true&vCenter=true&width=700&lines=Welcome+to+my+page!;Minecraft+Developer;Game+Designer;Graphic+Designer;Web+Developer;Video+Editor" alt="Typing Animation">
 </p>
 
 ---
