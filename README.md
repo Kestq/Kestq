@@ -69,7 +69,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
   <img src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=FFFFFF&border_radius=10" height="180" />
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=E100FF&fire=7F00FF&currStreakLabel=FFFFFF" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=ff6e6e&fire=7F00FF&currStreakLabel=FFFFFF" height="180" />
 </div>
 
 ---
