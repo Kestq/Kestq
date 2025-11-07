@@ -106,19 +106,41 @@ Building a 1000-Level OP Prison experience with 100 prestiges, 10 rebirths, cust
 ### 🧠 Tech Stack Highlights
 
 #### 🎨 Graphic Design Software
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gimp,ae,ps,pr,davinciresolve,figma,canva,blender,cinema4d" />
-</p>
+![GIMP](https://img.shields.io/badge/GIMP-7F00FF?style=for-the-badge&logo=gimp&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-E100FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-7F00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-E100FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-7F00FF?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E100FF?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-7F00FF?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E100FF?style=for-the-badge&logo=blender&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-7F00FF?style=for-the-badge&logo=cinema4d&logoColor=white)
+
+---
 
 #### 💻 Developer Software & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,rider,figma,vscode" />
-</p>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-E100FF?style=for-the-badge&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-7F00FF?style=for-the-badge&logo=webstorm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-E100FF?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-7F00FF?style=for-the-badge&logo=rider&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E100FF?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-7F00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 
 #### 🧩 Developer Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,ts,python,html,php,css,java,js,maven,gradle" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-7F00FF?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-E100FF?style=for-the-badge&logo=npm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7F00FF?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E100FF?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7F00FF?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-E100FF?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7F00FF?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E100FF?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7F00FF?style=for-the-badge&logo=javascript&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-E100FF?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-7F00FF?style=for-the-badge&logo=gradle&logoColor=white)
+
 
 ---
 
