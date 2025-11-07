@@ -9,7 +9,7 @@
 
 ### 👋 Hey, I'm **Kestq**
 I’m a **developer from Toronto, Canada 🇨🇦**, currently working on building next-gen gaming and Minecraft experiences.  
-From creating advanced plugin systems to full-scale universe games — I love blending creativity and code to make something special.
+From creating advanced plugin systems to full-scale universe games — I love blending creativity and code to make something special. 
 
 ---
 
