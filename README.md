@@ -13,13 +13,23 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ---
 
-### ⚙️ Developer Stats
-
+## ⚙️ Developer Stats
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20With-Maven%20%26%20PaperMC-7F00FF?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Primary%20Focus-Minecraft%20Plugins-E100FF?style=for-the-badge&logo=spigotmc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Projects-15+-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Years%20of%20Experience-6%2B-E100FF?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3%20Years-7F00FF?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Projects-15+-E100FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Languages-Java%20%7C%20Kotlin%20%7C%20HTML-7F00FF?style=for-the-badge&logo=codeium&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Graphic Design Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Graphic%20Design%20Experience-Since%202015-E100FF?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Photoshop%20%7C%20Illustrator%20%7C%20Figma-7F00FF?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Branding%20%7C%20UI%2FUX%20%7C%20Game%20Art-E100FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects%20Created-200%2B%20Designs-7F00FF?style=for-the-badge&logo=behance&logoColor=white" />
 </p>
 
 ---
