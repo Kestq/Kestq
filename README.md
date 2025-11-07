@@ -104,8 +104,20 @@ Building a 1000-Level OP Prison experience with 100 prestiges, 10 rebirths, cust
 ---
 
 ### 🧠 Tech Stack Highlights
+
+#### 🎨 Graphic Design Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,idea,html,css,js,php,mysql,figma,ae,pr,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=gimp,ae,ps,pr,davinciresolve,figma,canva,blender,cinema4d" />
+</p>
+
+#### 💻 Developer Software & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,rider,figma,vscode" />
+</p>
+
+#### 🧩 Developer Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,ts,python,html,php,css,java,js,maven,gradle" />
 </p>
 
 ---
