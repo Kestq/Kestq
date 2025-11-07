@@ -76,16 +76,7 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ### 🎨 Language & Activity Overview
 <div align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight" height="180" />
-
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/wakatime?username=Kestq)" height="180" />
-</div>
-
-</p>
-
-
-  <!-- Activity Graph -->
+<!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF" height="300" />
 </div>
 
