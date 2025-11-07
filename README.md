@@ -87,7 +87,7 @@ Building a 1000-Level OP Prison experience with 100 prestiges, 10 rebirths, cust
 |------------|----------------|
 | 🌐 **Website Development** | Modern, responsive, and branded sites |
 | 💸 **E-Commerce Setup** | Custom Shopify / Tebex integrations |
-| 🎨 **Graphic Design** | Branding, motion graphics, and overlays |
+| 🎨 **Graphic Design** | Branding, social media, and overlays |
 | 🧱 **Minecraft Plugin & Resource Dev** | Prefix tags, modeling, & GUI configs |
 | 💬 **Discord Setup** | Automated panels, roles, and support systems |
 
