@@ -66,7 +66,9 @@ From creating advanced plugin systems to full-scale universe games — I love bl
 
 ### 🧠 Games I’m Creating
 🎮 **NexusIDLE** — A unique idle progression game with layered systems  
-🌌 **Avera Online** — A social meta-universe inspired by IMVU and Second Life  
+🎮 **Avera Online** — A social meta-universe inspired by IMVU and Second Life  
+🎮 **Project Silence** — A detective strategy game based on zombies.
+🎮 **Auralis Online ** — A MMORPG Medieval Sci-Fi game.
 
 ---
 
