@@ -154,6 +154,14 @@ Building a 1000-Level OP Prison experience with 100 prestiges, 10 rebirths, cust
 
 ---
 
+### 📚 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=react-dark&hide_border=true&border_radius=12&count_private=true" height="200" />
+</div>
+
+---
+
 ### 📊 Coding Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF" height="300" />
