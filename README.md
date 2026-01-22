@@ -148,37 +148,59 @@ Building a 1000-Level OP Prison experience with 100 prestiges, 10 rebirths, cust
 
 ### ⚡ GitHub Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=FFFFFF&border_radius=10" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=E100FF&fire=7F00FF&currStreakLabel=FFFFFF" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=E100FF&text_color=FFFFFF"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Kestq&theme=radical&hide_border=true&background=0D1117&ring=E100FF&fire=7F00FF&currStreakLabel=FFFFFF"
+    height="180"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
 
 ### 📚 Top Languages
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=react-dark&hide_border=true" height="200" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kestq&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=FFFFFF"
+    height="200"
+    alt="Top Languages"
+  />
 </div>
 
 ---
 
 ### 📊 Coding Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF" height="300" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kestq&theme=react-dark&hide_border=true&area=true&color=E100FF&point=7F00FF"
+    height="300"
+    alt="Activity Graph"
+  />
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kestq&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Kestq&theme=radical&no-bg=true&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Kestq/Kestq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
 </p>
 
 ---
