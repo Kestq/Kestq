@@ -142,18 +142,18 @@ I like taking a project from the first logo and interface concept all the way th
 
 <p align="center">
   <a href="https://github.com/Kestq">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kestq&theme=github_dark" alt="Kestq GitHub Activity" />
+    <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Kestq GitHub Activity" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kestq&theme=github_dark" alt="Kestq GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kestq&theme=github_dark&utcOffset=-4" alt="Kestq Productive Time" />
+  <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Kestq GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Kestq Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kestq&theme=github_dark" alt="Kestq Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kestq&theme=github_dark" alt="Kestq Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Kestq Top Languages by Repository" />
+  <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Kestq Top Languages by Commit" />
 </p>
 
 ---
