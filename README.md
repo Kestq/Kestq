@@ -153,7 +153,6 @@ I like taking a project from the first logo and interface concept all the way th
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Kestq Top Languages by Repository" />
-  <img src="https://raw.githubusercontent.com/Kestq/Kestq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Kestq Top Languages by Commit" />
 </p>
 
 ---
