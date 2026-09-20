@@ -28,4 +28,4 @@ jobs:
           AUTO_PUSH: true
           THEME: "github_dark"
 
-# retrigger after billing unlock
+# retrigger after secret update
