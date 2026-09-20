@@ -141,20 +141,19 @@ I like taking a project from the first logo and interface concept all the way th
 ## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6F51F8&icon_color=6F51F8&text_color=FBFBFB" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Kestq&hide_border=true&background=0D1117&ring=6F51F8&fire=6F51F8&currStreakLabel=FBFBFB&sideLabels=FBFBFB&dates=8B949E" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6F51F8&icon_color=6F51F8&text_color=FBFBFB" height="180" alt="Kestq GitHub Stats" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kestq&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake.svg" />
+    <img alt="Kestq contribution snake" src="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
