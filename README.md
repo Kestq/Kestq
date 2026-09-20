@@ -138,22 +138,17 @@ I like taking a project from the first logo and interface concept all the way th
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kestq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6F51F8&icon_color=6F51F8&text_color=FBFBFB" height="180" alt="Kestq GitHub Stats" />
-</div>
-
----
-
-## 🐍 Contributions
+## 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake.svg" />
-    <img alt="Kestq contribution snake" src="https://raw.githubusercontent.com/Kestq/Kestq/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/Kestq">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kestq&theme=github_dark" alt="Kestq GitHub Activity" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kestq&theme=github_dark" alt="Kestq GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kestq&theme=github_dark&utcOffset=-4" alt="Kestq Productive Time" />
 </p>
 
 ---
