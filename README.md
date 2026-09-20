@@ -43,7 +43,7 @@ I've been working with digital design for over a decade and now spend most of my
 Exar Networks
 ├── ExarBot      → Discord platform & automation
 ├── Exar AI      → Local AI tools
-├── Exar Link    → Creator/link platform development
+├── MyBio.lol    → Creator/link-in-bio platform
 └── Exar Studios → Game development
 ```
 
