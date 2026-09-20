@@ -27,3 +27,5 @@ jobs:
           EXCLUDE: ""
           AUTO_PUSH: true
           THEME: "github_dark"
+
+# retrigger after billing unlock
