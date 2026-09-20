@@ -151,6 +151,11 @@ I like taking a project from the first logo and interface concept all the way th
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kestq&theme=github_dark&utcOffset=-4" alt="Kestq Productive Time" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kestq&theme=github_dark" alt="Kestq Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kestq&theme=github_dark" alt="Kestq Top Languages by Commit" />
+</p>
+
 ---
 
 ## 🌐 Find Me
