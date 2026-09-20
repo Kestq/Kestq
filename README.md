@@ -44,6 +44,7 @@ Exar Networks
 ├── ExarBot      → Discord platform & automation
 ├── Exar AI      → Local AI tools
 ├── MyBio.lol    → Creator/link-in-bio platform
+├── ExarTools    → Gaming tools & utilities platform
 └── Exar Studios → Game development
 ```
 
