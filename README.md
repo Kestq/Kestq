@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me 
 
 I'm **Kestq**, a self-taught developer and graphic designer focused on turning ideas into complete products — from branding and UI/UX to full-stack platforms, Discord systems, game projects, and infrastructure.
 
