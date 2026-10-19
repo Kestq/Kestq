@@ -56,6 +56,12 @@ The goal is to build connected products with strong design, useful tooling, and 
 
 > A complete Discord platform built around communities, creators, gaming servers, and automation.
 
+<p align="center">
+  <a href="https://top.gg/bot/1546629464908238939">
+    <img src="https://top.gg/api/widget/1546629464908238939.svg" alt="ExarBot on top.gg" />
+  </a>
+</p>
+
 Some of the systems being developed include:
 
 - Moderation, automod, welcome and server management
