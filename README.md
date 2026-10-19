@@ -1,60 +1,58 @@
-<!-- Profile Banner -->
+<!-- Kestq GitHub profile -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:212121,50:6F51F8,100:212121&text=K%20E%20S%20T&fontColor=FBFBFB&fontAlignY=40&fontSize=60&fontAlign=50)
+![Kest profile banner](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:212121,50:6F51F8,100:212121&text=K%20E%20S%20T&fontColor=FBFBFB&fontAlignY=40&fontSize=60&fontAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=6F51F8&center=true&vCenter=true&width=800&lines=Developer+%26+Designer;Building+ExarBot;Building+MyBio.lol;Building+GunFight.cc;Creating+Project+Silence" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=27&duration=3500&pause=900&color=6F51F8&center=true&vCenter=true&width=850&lines=Developer+%26+Designer;Building+ExarBot+%26+ExarNet;Building+MyBio.lol+%26+Gunfight.cc;Creating+Project+Silence" alt="Developer and designer building ExarBot, ExarNet, MyBio.lol, Gunfight.cc and Project Silence" />
 </p>
 
 <p align="center">
-  <b>Developer • Designer • Product Builder</b><br/>
-  Building gaming, community, creator, and web products from Ontario, Canada 🇨🇦
+  <b>Developer · Designer · Product Builder</b><br />
+  Discord communities, creator profiles, competitive gaming and web platforms.<br />
+  Ontario, Canada 🇨🇦
+</p>
+
+<p align="center">
+  <a href="https://exarnet.com">ExarNet</a> ·
+  <a href="https://exarbot.com">ExarBot</a> ·
+  <a href="https://mybio.lol">MyBio.lol</a> ·
+  <a href="https://gunfight.cc">Gunfight.cc</a> ·
+  <a href="https://kestdesigns.com">Kest Designs</a>
 </p>
 
 ---
 
-## 👋 About Me 
+## 👋 About Me
 
-I'm **Kestq**, a self-taught developer and graphic designer focused on turning ideas into complete products — from branding and UI/UX to full-stack platforms, Discord systems, game projects, and infrastructure.
+I'm Kestq, a self-taught developer and graphic designer from Ontario. I've worked in digital design for over a decade, and I build projects from the first logo and interface through to the website, Discord integration and server setup.
 
-I've been working with digital design for over a decade and now spend most of my time building a new generation of projects across **Exar Networks**, **Kest Designs**, gaming, and creator tools.
+Most of my current work is on ExarBot, MyBio.lol, Gunfight.cc and the ExarNet hub that connects them. I also work on game development in Unity and share my design and development work through Kest Designs.
 
----
+## 🚀 My Projects
 
-## 🚀 What I'm Building
-
-| Project | What it is | Status |
-| :-- | :-- | :-- |
-| 🤖 **ExarBot** | Multipurpose Discord bot and web dashboard with moderation, leveling, economy, music, AI, automations, tickets, social alerts, server tooling, competitive gaming systems, and more. | In Development |
-| 🔗 **MyBio.lol** | Modern link-in-bio and profile platform with highly customizable pages, media, social integrations, Discord presence, analytics, and interactive profile experiences. | In Development |
-| 🎯 **GunFight.cc** | Competitive gaming platform built around tournaments, ranked play, 8s, teams, LFG, player profiles, stats, and community competition. | In Development |
-| 👻 **Project Silence** | First-person paranormal investigation game with entity AI, investigation equipment, atmospheric environments, and cooperative horror systems. | In Development |
-| ✦ **Exar AI** | Local AI suite for chat, coding, development workflows, and image generation. | Experimental |
-| 🛠️ **Exar Tools** | Gaming utility hub bringing useful tools and references for multiple games into one platform. | In Development |
-| 🎨 **Kest Designs** | My web development, graphic design, branding, and digital product portfolio. | Active |
-
----
-
-## 🏢 Exar Networks
-
-**Exar Networks** is the umbrella behind several of the products I'm building.
-
-```text
-Exar Networks
-├── ExarBot      → Discord platform & automation
-├── Exar AI      → Local AI tools
-├── MyBio.lol    → Creator/link-in-bio platform
-├── ExarTools    → Gaming tools & utilities platform
-└── Exar Studios → Game development
-```
-
-The goal is to build connected products with strong design, useful tooling, and polished user experiences rather than isolated experiments.
+| Project | What I'm building |
+| :-- | :-- |
+| 🤖 [ExarBot](https://exarbot.com) | A multipurpose Discord bot and dashboard for moderation, automation, server setup and community engagement. |
+| 🔗 [MyBio.lol](https://mybio.lol) | Customizable profile and link-in-bio pages with music, visual effects, Discord presence and community templates. |
+| 🎯 [Gunfight.cc](https://gunfight.cc) | A competitive gaming and community platform with tournaments, LFG, clans, coaching, marketplaces and game-specific tools. |
+| ✦ [ExarNet](https://exarnet.com) | The shared home for Exar Networks, bringing product information, updates and staff operations together. |
+| 👻 Project Silence | My paranormal investigation game project, built in Unity. |
+| 🎨 [Kest Designs](https://kestdesigns.com) | My graphic design, branding, UI/UX and web development portfolio. |
 
 ---
 
 ## 🤖 ExarBot
 
-> A complete Discord platform built around communities, creators, gaming servers, and automation.
+A Discord bot with a connected web dashboard, currently in public beta. I'm building it to help server owners manage their communities and customize the experience for their members.
+
+- Moderation, automatic message filters and server management
+- Welcome and goodbye messages, custom welcome cards and rank-card design
+- Levels, leaderboards, economy, rewards and achievements
+- Role menus, tickets, giveaways, polls and temporary voice channels
+- Message building, scheduled posts, custom commands and automations
+- Social notifications, invite tracking and community statistics
+- AI-assisted server setup and configuration
+- Music playback in beta, plus competitive queues, drafts and tournaments in limited beta
 
 <p align="center">
   <a href="https://top.gg/bot/1546629464908238939">
@@ -62,85 +60,61 @@ The goal is to build connected products with strong design, useful tooling, and 
   </a>
 </p>
 
-Some of the systems being developed include:
-
-- Moderation, automod, welcome and server management
-- Levels, economy, rewards and server shops
-- Music, playlists, uploads and 24/7 audio
-- Tickets, reaction roles, giveaways, polls and announcements
-- Custom commands and advanced automations
-- Social alerts and community engagement tools
-- AI-powered features
-- Visual Discord server template/setup builder
-- Server backups and reusable community templates
-- Competitive gaming queues, ELO, drafts, scrims and tournaments
-- Web dashboard with free, Pro, Ultimate and addon features
-
----
+<p align="center">
+  <a href="https://exarbot.com">Website &amp; Dashboard</a> ·
+  <a href="https://top.gg/bot/1546629464908238939">View &amp; Vote on top.gg</a>
+</p>
 
 ## 🔗 MyBio.lol
 
-> More than a link — a customizable home for your online identity.
+A place to bring your links, style and online identity together. MyBio.lol is built for creators, gamers, artists, teams and brands that want a profile they can make their own.
 
-MyBio.lol is being built around expressive profile pages rather than basic link lists, including:
+- Custom layouts, themes, colors, backgrounds and visual effects
+- Profile music, video backgrounds, banners, fonts and custom cursors
+- Discord sign-in, linked identity and live presence
+- Community templates that can be previewed, shared and customized
+- Profile discovery, badges, view analytics and link-click tracking
+- A profile editor with desktop and mobile previews
+- A community Discord bot for profile showcases, support and giveaways
 
-- Custom profile layouts and themes
-- Animated and interactive profile cards
-- Background audio and media
-- Discord sign-in and presence integration
-- Social links and embeds
-- Profile analytics
-- Customization and premium features
-- Creator-focused public profiles
+[Visit MyBio.lol](https://mybio.lol) · [Documentation](https://docs.mybio.lol)
 
----
+## 🎯 Gunfight.cc
 
-## 🎯 GunFight.cc
+A gaming platform organized around the games people play. Each game has its own community area, with tools for finding players, competing and sharing content.
 
-> Competitive gaming infrastructure built for players and communities.
+- Tournaments, scrims, LFG and clans
+- Player profiles, community feeds and streamer discovery
+- Coaching and game-specific marketplaces
+- Call of Duty META loadouts and a tactical planner
+- Discord sign-in and connected community accounts
+- Tournament and captain-draft voice rooms managed by the Gunfight bot
 
-The platform is designed around:
+[Visit Gunfight.cc](https://gunfight.cc)
 
-- Tournaments and competitive events
-- Ranked 8s and ELO systems
-- Captain drafts and queues
-- Teams, clans and player profiles
-- LFG and community features
-- Scrims and competitive matchmaking
-- Stats and performance tracking
-- Multi-game competitive support
+## ✦ ExarNet
 
----
+ExarNet is the central hub for Exar Networks and my connected projects, including ExarBot, Gunfight.cc and MyBio.lol.
+
+My work here covers the public website, staff dashboards, company analytics, shared business email and a Discord update system. GitHub changes create changelog drafts for staff to review before publication.
+
+[Visit ExarNet](https://exarnet.com)
 
 ## 👻 Project Silence
 
-**Project Silence** is my game-development project: a paranormal investigation experience built in Unity.
-
-Current systems include first-person exploration, procedural environments, investigation equipment, entity behavior, hunts, line-of-sight/hearing logic, and atmospheric horror gameplay.
+My paranormal investigation game project in Unity, focused on first-person exploration, investigation equipment, entity behavior and atmospheric horror.
 
 ---
 
 ## 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,java,cs,unity,postgres,git,github,figma,photoshop,illustrator&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,python,fastapi,sqlite,mongodb,cs,unity,linux,git,github,figma,photoshop,illustrator&perline=9" alt="JavaScript, TypeScript, Node.js, React, HTML, CSS, Python, FastAPI, SQLite, MongoDB, C#, Unity, Linux, Git, GitHub, Figma, Photoshop and Illustrator" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Modern%20Web-6F51F8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20PostgreSQL-6F51F8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Game%20Dev-Unity%20%7C%20C%23-6F51F8?style=for-the-badge" />
-</p>
+My work spans frontend interfaces, APIs, databases, Discord bots, VPS hosting and Unity development. On the design side, I create brand identities, logos, websites, Discord graphics and promotional assets.
 
----
-
-## 🎨 Design
-
-Development is only half of what I do. I also work on:
-
-**Brand identity • logos • UI/UX • web design • product design • game visuals • Discord branding • promotional graphics**
-
-I like taking a project from the first logo and interface concept all the way through to the working product.
+[View Kest Designs](https://kestdesigns.com)
 
 ---
 
@@ -166,15 +140,15 @@ I like taking a project from the first logo and interface concept all the way th
 ## 🌐 Find Me
 
 <p align="center">
-  <a href="https://kestdesigns.com"><img src="https://img.shields.io/badge/Kest%20Designs-212121?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/Kestq"><img src="https://img.shields.io/badge/GitHub-Kestq-212121?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://youtube.com/@kestttv"><img src="https://img.shields.io/badge/YouTube-KestTTV-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitch.tv/kestttv"><img src="https://img.shields.io/badge/Twitch-KestTTV-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://tiktok.com/@kestttv"><img src="https://img.shields.io/badge/TikTok-KestTTV-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://kestdesigns.com"><img src="https://img.shields.io/badge/Kest%20Designs-212121?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kest Designs portfolio" /></a>
+  <a href="https://github.com/Kestq"><img src="https://img.shields.io/badge/GitHub-Kestq-212121?style=for-the-badge&logo=github&logoColor=white" alt="Kestq on GitHub" /></a>
+  <a href="https://youtube.com/@kestttv"><img src="https://img.shields.io/badge/YouTube-KestTTV-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="KestTTV on YouTube" /></a>
+  <a href="https://twitch.tv/kestttv"><img src="https://img.shields.io/badge/Twitch-KestTTV-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="KestTTV on Twitch" /></a>
+  <a href="https://tiktok.com/@kestttv"><img src="https://img.shields.io/badge/TikTok-KestTTV-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="KestTTV on TikTok" /></a>
 </p>
 
 <p align="center">
-  <b>Currently building ExarBot • MyBio.lol • GunFight.cc • Project Silence</b>
+  <b>Building ExarBot · MyBio.lol · Gunfight.cc · ExarNet</b>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:212121,50:6F51F8,100:212121)
+![Profile footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:212121,50:6F51F8,100:212121)
